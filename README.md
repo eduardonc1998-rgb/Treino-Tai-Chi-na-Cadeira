@@ -45,3 +45,6 @@ O HTML inclui Meta Pixel 1165879388928886 para o funil, um ID Meta padrão disti
 A entidade interna é identificada apenas como legalEntity:soonbody e o domínio de suporte como contact-us.soonbody.com. Nome jurídico completo, endereço e textos legais ainda precisam de conferência.
 
 O servidor local usa CSP para restringir conexões externas. Essa configuração é para inspeção local; qualquer publicação exige configurar conscientemente backend, pagamentos, analytics e documentos legais. Este pacote ainda não está certificado como pronto para republicar.
+
+
+Atualização: telas de novidades por e-mail e raspadinha removidas do percurso nos dois ramos. A análise segue diretamente para a oferta. As capturas anteriores registram a versão antiga.

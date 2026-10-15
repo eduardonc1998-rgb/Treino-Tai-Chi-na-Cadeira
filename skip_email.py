@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 
 root = Path(__file__).resolve().parent
-mapping = {"fs7qffddo2tuy4wgltjvpt7g": "f1tudi3a4k9avy7k3ps0hg8y", "pprhx9hbtlgmxtoy0382y90d": "b9hxpg7tog089ppsm28tk9e9"}
+mapping = {"fs7qffddo2tuy4wgltjvpt7g": "iloxv7rf5nbs0u28d9beu05r", "pprhx9hbtlgmxtoy0382y90d": "njsqxgvb6aczmefcutcjrhyl"}
 for p in [root / "site/index.html", root / "site/pt/flow-tai-chi-yoga-2"]:
     s = p.read_text(encoding="utf-8")
     for old, new in mapping.items():
