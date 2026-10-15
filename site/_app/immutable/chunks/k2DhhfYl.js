@@ -1,0 +1,1 @@
+import{k as t}from"./CkHUqsAe.js";import{D as a}from"./DtrdqW9F.js";const e=t({locale:a,messages:{}});function l(s,o={}){e.locale=s,e.messages=o}function n(){return e.locale}function g(s){if(e.locale!==a)return e.messages[s]}export{g as a,n as g,l as s};

@@ -1,0 +1,16 @@
+{
+  "branch": "40-49_female",
+  "step": 11,
+  "step_id": "u5sor8ofpe0jz68w55cw58g7",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/u5sor8ofpe0jz68w55cw58g7",
+  "type": "question",
+  "template": "selection-default",
+  "name": "Text Options",
+  "question": "Como o seu peso costuma mudar?",
+  "options_found": [
+    " Engordo rápido, mas emagreço devagar ",
+    " Engordo e emagreço com facilidade ",
+    " Tenho dificuldade em ganhar peso ou músculo "
+  ],
+  "main_text": "Como o seu peso costuma mudar?\nEngordo rápido, mas emagreço devagar\nEngordo e emagreço com facilidade\nTenho dificuldade em ganhar peso ou músculo"
+}

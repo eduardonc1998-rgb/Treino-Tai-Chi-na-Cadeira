@@ -1,0 +1,17 @@
+{
+  "branch": "40-49_female",
+  "step": 14,
+  "step_id": "dgagwjo4ymqyz54bgc1vmkxg",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/dgagwjo4ymqyz54bgc1vmkxg",
+  "type": "question",
+  "template": "multi-selection-default",
+  "name": "Multi Select",
+  "question": "Quais são suas zonas-alvo?",
+  "options_found": [
+    "  Braços ",
+    "  Peito ",
+    "  Barriga ",
+    "  Pernas "
+  ],
+  "main_text": "Quais são suas zonas-alvo?\n\nSelecione todas que se aplicam\n\nBraços\nPeito\nBarriga\nPernas"
+}

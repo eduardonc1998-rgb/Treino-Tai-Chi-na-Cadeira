@@ -1,0 +1,16 @@
+{
+  "branch": "70plus_male",
+  "step": 11,
+  "step_id": "bwkc1mskij4kkb3us3nux30z",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/bwkc1mskij4kkb3us3nux30z",
+  "type": "question",
+  "template": "selection-default",
+  "name": "Text Options",
+  "question": "Como o seu peso costuma mudar?",
+  "options_found": [
+    " Ganho peso rápido, mas perco devagar ",
+    " Ganho e perco peso com facilidade ",
+    " Tenho dificuldade em ganhar peso ou massa muscular "
+  ],
+  "main_text": "Como o seu peso costuma mudar?\nGanho peso rápido, mas perco devagar\nGanho e perco peso com facilidade\nTenho dificuldade em ganhar peso ou massa muscular"
+}

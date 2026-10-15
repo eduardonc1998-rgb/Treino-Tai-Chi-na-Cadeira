@@ -1,0 +1,15 @@
+{
+  "branch": "40-49_female",
+  "step": 2,
+  "step_id": "ur340xfxl1ex4i90aqauqnnv",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/ur340xfxl1ex4i90aqauqnnv",
+  "type": "question",
+  "template": "selection-image",
+  "name": "Image Cards",
+  "question": "Escolha o seu género",
+  "options_found": [
+    " Feminino ",
+    " Masculino "
+  ],
+  "main_text": "Escolha o seu género\nFeminino\nMasculino"
+}

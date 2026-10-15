@@ -1,0 +1,17 @@
+{
+  "branch": "70plus_male",
+  "step": 27,
+  "step_id": "wx51d3gf056z5ltkm6c3czfo",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/wx51d3gf056z5ltkm6c3czfo",
+  "type": "question",
+  "template": "grid-default",
+  "name": "Grid Landing",
+  "title": "A que horas costumas tomar o pequeno-almoço?",
+  "options_found": [
+    "Entre as 6h e as 8h ",
+    "Entre as 8h e as 10h ",
+    "Entre as 10h e o meio-dia ",
+    "Costumo saltar o pequeno-almoço "
+  ],
+  "main_text": "A que horas costumas tomar o pequeno-almoço?\nEntre as 6h e as 8h\nEntre as 8h e as 10h\nEntre as 10h e o meio-dia\nCostumo saltar o pequeno-almoço"
+}

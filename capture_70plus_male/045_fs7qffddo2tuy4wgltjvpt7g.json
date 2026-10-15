@@ -1,0 +1,11 @@
+{
+  "branch": "70plus_male",
+  "step": 45,
+  "step_id": "fs7qffddo2tuy4wgltjvpt7g",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/fs7qffddo2tuy4wgltjvpt7g",
+  "type": "email_capture",
+  "template": "email-simple",
+  "name": "Simple Email",
+  "options_found": [],
+  "main_text": "Digite seu e-mail para receber seu Plano de Tai Chi Yoga\n🔒\n\nSeus dados estão 100% protegidos."
+}

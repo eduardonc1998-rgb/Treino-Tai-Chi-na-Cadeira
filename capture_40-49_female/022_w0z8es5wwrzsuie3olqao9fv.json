@@ -1,0 +1,16 @@
+{
+  "branch": "40-49_female",
+  "step": 22,
+  "step_id": "w0z8es5wwrzsuie3olqao9fv",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/w0z8es5wwrzsuie3olqao9fv",
+  "type": "question",
+  "template": "selection-icon",
+  "name": "Icon Options",
+  "question": "Como é o seu dia a dia?",
+  "options_found": [
+    " Fico sentado(a) a maior parte do dia ",
+    " Faço pausas ativas ",
+    " Fico de pé o dia todo "
+  ],
+  "main_text": "Como é o seu dia a dia?\nFico sentado(a) a maior parte do dia\nFaço pausas ativas\nFico de pé o dia todo"
+}

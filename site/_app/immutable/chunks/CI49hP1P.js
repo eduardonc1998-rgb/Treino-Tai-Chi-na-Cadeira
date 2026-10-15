@@ -1,0 +1,1 @@
+import"./DsnmJJEf.js";import"./CF735G9x.js";import{c as e,r as s,a,f as o}from"./CkHUqsAe.js";import{P as l}from"./Hk1gP2WJ.js";var m=o('<div class="size-[37px] rounded-full bg-sb-primary flex items-center justify-center shrink-0"><!></div>');function c(t){var r=m(),i=e(r);l(i,{class:"size-4 text-white ml-0.5",fill:"white"}),s(r),a(t,r)}export{c as A};

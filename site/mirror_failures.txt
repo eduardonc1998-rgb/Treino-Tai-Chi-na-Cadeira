@@ -1,0 +1,7 @@
+https://soonbody.com/config.js	404
+https://soonbody.com/src/lib/assets/images/summary/v3/success/anti-inflammatory.jpg	404
+https://soonbody.com/src/lib/assets/images/summary/v3/success/meal-prep.jpg	404
+https://soonbody.com/src/lib/assets/images/summary/v3/success/microbiome-guide.jpg	404
+https://soonbody.com/src/lib/assets/images/summary/v3/success/mindful-meals.jpg	404
+https://soonbody.com/analytics.js	404
+https://soonbody.com/gtm.js	404

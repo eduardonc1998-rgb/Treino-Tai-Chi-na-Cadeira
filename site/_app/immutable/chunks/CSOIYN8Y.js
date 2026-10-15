@@ -1,0 +1,1 @@
+import{w as t}from"./Co0N9ivw.js";const s=t(null),a=t(null);function o(){a.set(null)}const e="United States (Free Shipping)",n=()=>({firstName:"",lastName:"",country:e,streetAddress:"",apartment:"",city:"",state:"",zipCode:"",email:"",phone:""});function r(){return n()}export{e as S,a,o as c,r as i,s};

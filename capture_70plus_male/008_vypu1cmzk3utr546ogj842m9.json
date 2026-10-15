@@ -1,0 +1,18 @@
+{
+  "branch": "70plus_male",
+  "step": 8,
+  "step_id": "vypu1cmzk3utr546ogj842m9",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/vypu1cmzk3utr546ogj842m9",
+  "type": "question",
+  "template": "multi-selection-default",
+  "name": "Multi Select",
+  "question": "O que mais você gostaria de focar?",
+  "options_found": [
+    "  Desenvolver força muscular  ",
+    "  Manter a mobilidade ",
+    "  Reduzir o estresse e a ansiedade ",
+    "  Desenvolver flexibilidade ",
+    "  Nenhuma das opções acima "
+  ],
+  "main_text": "O que mais você gostaria de focar?\n\nSelecione todas as que se aplicam\n\nDesenvolver força muscular\nManter a mobilidade\nReduzir o estresse e a ansiedade\nDesenvolver flexibilidade\nNenhuma das opções acima"
+}

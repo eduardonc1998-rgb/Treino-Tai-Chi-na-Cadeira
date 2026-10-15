@@ -1,0 +1,1198 @@
+{
+  "url": "https://soonbody.com/pt/flow-tai-chi-yoga-2",
+  "title": "SoonBody — Your Personalized Body Transformation Plan",
+  "text": "Plano de Treino de Tai Chi e Yoga na Cadeira\n\nCom base na sua idade\n\n40-49\n50-59\n60-69\n70+",
+  "requestCount": 111,
+  "requests": [
+    {
+      "method": "GET",
+      "type": "document",
+      "url": "https://soonbody.com/pt/flow-tai-chi-yoga-2"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://soonbody.com/_app/immutable/assets/0.CjGrAOFD.css"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://soonbody.com/_app/immutable/assets/PaymentPrimerModal.J5itSwkR.css"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://soonbody.com/_app/immutable/assets/StepRenderer.Bn15l0Tf.css"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/entry/start.kRyursPG.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/BiLmNkjk.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/BPBfwgUT.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/CkHUqsAe.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/Co0N9ivw.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/entry/app.ClEh9DAQ.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/BapAUJpM.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/DtrdqW9F.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/DsnmJJEf.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/73Kp2zFG.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/0V_RfVVC.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/8DvQmKcs.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/BkD-eRfk.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/EaNDiqUf.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/nodes/0.BDuzS26y.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/C2JAbztn.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/4YstYjTA.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/DaM8PDMK.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/BZ3pOy4Q.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/CwBXz5fr.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/DEKr6ebT.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/vTDR4b3d.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/CgroewNY.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/BcWDqWEx.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/ChtFofJR.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/FpPf08rP.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/k2DhhfYl.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/CSOIYN8Y.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/CWMrfper.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/BfYqsIK2.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/CF735G9x.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/BjNqHiGC.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/HW7EHQVA.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/CMopq8vA.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/D8HzdPGD.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/CeMlYiZP.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/BNzgKkWj.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/nodes/4.CPDgpGlp.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/Db1PPcoI.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/ByPAb1Rk.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/nodes/35.B52odGpT.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/DSIjgyn-.js"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Montserrat:wght@500;600;700&family=Playfair+Display:wght@600&family=Poppins:wght@400;500;600;700&family=Red+Hat+Display:wght@400;500;600;700&display=swap"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://soonbody.com/logo.svg"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/nodes/1.DQIr21hk.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/Cpti01B-.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/DkNo00Qc.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/Xy2T5FXL.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/Yih3MLy-.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/CnSZ1lOv.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/xrxve9JD.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/_dJAKM_S.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/nO8uk5Ff.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/CaXFW32f.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/B3NSqEQQ.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/DZ5dKPRo.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/kQkSol7A.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/BSUkvDvW.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/BQMlbt_2.js"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://soonbody.com/api/crm/an-v2/an"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://us-assets.i.posthog.com/array/phc_ExyXdpe5z9fJK0BH1GpLS2Y7UaeRFMpPcvkxXODmBqz/config.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/metrics/1wisussqfwb.js?bsk8u=CxNbNic%2BWD0gTlIrRCU%2FVRRKVF9CVREdXwQJHh0RGhcbWQUeHg%3D%3D"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/C50tD0x8.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/_app/immutable/chunks/DfgHyQdU.js"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.soonbody.com/media/o6ebcg87asby3lpan5y8lkui/original.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.soonbody.com/media/bwhouia098qm6c673a7ri7af/original.svg"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "https://fonts.gstatic.com/s/redhatdisplay/v21/8vIQ7wUr0m80wwYf0QCXZzYzUoTg_T6h.woff2"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.soonbody.com/media/pv19v653z4snumseif7ctt4m/original.svg"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/cdn-cgi/challenge-platform/scripts/jsd/main.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://soonbody.com/cdn-cgi/challenge-platform/h/b/scripts/jsd/d2d3316b729e/main.js?"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://us-assets.i.posthog.com/static/surveys.js?v=1.407.1"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://us-assets.i.posthog.com/static/exception-autocapture.js?v=1.407.1"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://us.i.posthog.com/flags/?v=2&ver=1.407.1&compression=base64"
+    },
+    {
+      "method": "POST",
+      "type": "xhr",
+      "url": "https://soonbody.com/cdn-cgi/challenge-platform/h/b/jsd/oneshot/d2d3316b729e/0.9970241973603543:1792069239:GTsFlznYZ_VsKig6fT6Zq0xP1H-1T0EHJmbg6ZoECAo/a4af6d2a5c7fa64f"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://s.axon.ai/pixel.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://sgtm.soonbody.com/1wisussqfwb/9fbbt?4033c5d5=L2d0YWcvanM%2FaWQ9Ry1aMERTTThGSlpMJmN4PWMmZ3RtPTRlNmFkMQ%3D%3D"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://connect.facebook.net/en_US/fbevents.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://stapecdn.com/dtag/v9.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://s.pinimg.com/ct/core.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://b-code.liadm.com/b-03li.min.js"
+    },
+    {
+      "method": "HEAD",
+      "type": "fetch",
+      "url": "https://analytics.google.com/g/collect?a=adblocker_check"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://b.applovin.com/v1/pixel/config?event_key=54e09a06-3517-437c-8fcc-5436c1a93ad5"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "https://b.applovin.com/v1/pixel"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://soonbody.com/api/track/data?v=2&event=page_view"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://connect.facebook.net/signals/config/1165879388928886?v=2.9.419&r=stable&domain=soonbody.com&hme=7459fa3e38c2784dbaf309537bed5fa7e8560fab51fb61e53e5ffafeb46a02a9&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C339%2C361%2C248%2C237%2C70%2C238%2C236%2C364%2C355%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://s.pinimg.com/ct/lib/main.f1fea82a.js"
+    },
+    {
+      "method": "GET",
+      "type": "xhr",
+      "url": "https://ct.pinterest.com/user/?tid=2612611884737&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22gallery%22%7D&cb=1792073628826&dep=2%2CPAGE_LOAD"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://ct.pinterest.com/v3/?tid=2612611884737&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22gallery%22%7D&event=init&ad=%7B%22loc%22%3A%22https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2%22%2C%22ref%22%3A%22%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%22f1fea82a%22%2C%22is_eu%22%3Atrue%2C%22architecture%22%3A%22x86%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Windows%22%2C%22platformVersion%22%3A%2219.0.0%22%2C%22uaFullVersion%22%3A%22155.0.8059.79%22%7D&cb=1792073628830"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://capi-automation.s3.us-east-2.amazonaws.com/public/client_js/capiParamBuilder/clientParamBuilder.bundle.js"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-Z0DSM8FJZL&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xf3&_p=1792073627777&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAACAC&cid=1032365141.1792073629&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=1&sr=1280x720&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.79%7CChromium%3B155.0.8059.79%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=pt-br&_s=1&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1792073629&sct=1&seg=0&dl=https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2&dt=SoonBody%20%E2%80%94%20Your%20Personalized%20Body%20Transformation%20Plan&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=2332"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "https://stats.g.doubleclick.net/g/collect?v=2&ngs=1&ibt=1&tid=G-Z0DSM8FJZL&cid=1032365141.1792073629&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xf3&rcb=1&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/18181839750/?random=1792073629439&cv=11&fst=1792073629439&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xecxf3&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2&rcb=1&frm=0&tiba=SoonBody%20%E2%80%94%20Your%20Personalized%20Body%20Transformation%20Plan&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1230807441.1792073629&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.79%7CChromium%3B155.0.8059.79%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://www.google.com/rmkt/collect/18181839750/?random=1792073629439&cv=11&fst=1792073629439&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xecxf3&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2&rcb=1&frm=0&tiba=SoonBody%20%E2%80%94%20Your%20Personalized%20Body%20Transformation%20Plan&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1230807441.1792073629&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.79%7CChromium%3B155.0.8059.79%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://www.google.com.br/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&ngs=1&ibt=1&tid=G-Z0DSM8FJZL&cid=1032365141.1792073629&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xf3&rcb=1&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&z=1379247779"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=1&auid=1230807441.1792073629&dt=SoonBody%20%E2%80%94%20Your%20Personalized%20Body%20Transformation%20Plan&tid=AW-18181839750&en=page_view&dl=https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2&scrsrc=sgtm.soonbody.com&rnd=689404910.1792073629&navt=n&npa=0&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xecxf3&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792073629455&tfd=2351&tids=AW-18181839750&fmt=8"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1230807441.1792073629&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xecxf3&fmt=8"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://www.google.com/pagead/1p-user-list/18181839750/?random=1792073629439&cv=11&fst=1792072800000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xecxf3&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2&rcb=1&frm=0&tiba=SoonBody%20%E2%80%94%20Your%20Personalized%20Body%20Transformation%20Plan&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1230807441.1792073629&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.79%7CChromium%3B155.0.8059.79%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS7AEAQM4h3MateG4rZtgWf0FkNRWoKGaako4Fbd1f4SdmV46yY7FB2tiAsXqYJhvzLmBmlKd714y7vj4FsB54nixS3tZwM4wIIGGMxmH-sKBCDqpjFvxTcVnrTIBSLg674oefxleA36J_sdWXMzdKNJcVBsTw52YqfqRw_mn3U5q4_wf279HdHibJJ9EhQFePGAUYJ2x9VOBxWIeNcHYsaVI7UzAHPAVw2IcitxjCZQ-x9-Amrs-HIK74QEAE3DW6_OLnmrPI4vYnjhKgBLKHgsukMX5eHCQuuHfUnUzOzLLwBESYM9gRN62GZLYO_Q&random=763693910&rmt_tld=0&ipr=y"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://www.google.com.br/pagead/1p-user-list/18181839750/?random=1792073629439&cv=11&fst=1792072800000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xecxf3&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2&rcb=1&frm=0&tiba=SoonBody%20%E2%80%94%20Your%20Personalized%20Body%20Transformation%20Plan&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1230807441.1792073629&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.79%7CChromium%3B155.0.8059.79%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS7AEAQM4h3MateG4rZtgWf0FkNRWoKGaako4Fbd1f4SdmV46yY7FB2tiAsXqYJhvzLmBmlKd714y7vj4FsB54nixS3tZwM4wIIGGMxmH-sKBCDqpjFvxTcVnrTIBSLg674oefxleA36J_sdWXMzdKNJcVBsTw52YqfqRw_mn3U5q4_wf279HdHibJJ9EhQFePGAUYJ2x9VOBxWIeNcHYsaVI7UzAHPAVw2IcitxjCZQ-x9-Amrs-HIK74QEAE3DW6_OLnmrPI4vYnjhKgBLKHgsukMX5eHCQuuHfUnUzOzLLwBESYM9gRN62GZLYO_Q&random=763693910&rmt_tld=1&ipr=y"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://ct.pinterest.com/static/ct/token_create.js"
+    },
+    {
+      "method": "GET",
+      "type": "document",
+      "url": "https://ct.pinterest.com/ct.html"
+    },
+    {
+      "method": "POST",
+      "type": "xhr",
+      "url": "https://soonbody.com/cdn-cgi/rum?"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cm.g.doubleclick.net/pixel?google_nid=aplv&google_cm&cek=54e09a06-3517-437c-8fcc-5436c1a93ad5"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "https://soonbody.com/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://b.applovin.com/v1/gcm/match?cek=54e09a06-3517-437c-8fcc-5436c1a93ad5&google_gid=CAESEB7aky-mnbH75keFdrl3LPY&google_cver=1"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "https://soonbody.com/favicon.svg"
+    }
+  ],
+  "grouped": {
+    "soonbody.com": [
+      {
+        "method": "GET",
+        "type": "document",
+        "url": "https://soonbody.com/pt/flow-tai-chi-yoga-2"
+      },
+      {
+        "method": "GET",
+        "type": "stylesheet",
+        "url": "https://soonbody.com/_app/immutable/assets/0.CjGrAOFD.css"
+      },
+      {
+        "method": "GET",
+        "type": "stylesheet",
+        "url": "https://soonbody.com/_app/immutable/assets/PaymentPrimerModal.J5itSwkR.css"
+      },
+      {
+        "method": "GET",
+        "type": "stylesheet",
+        "url": "https://soonbody.com/_app/immutable/assets/StepRenderer.Bn15l0Tf.css"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/entry/start.kRyursPG.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/BiLmNkjk.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/BPBfwgUT.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/CkHUqsAe.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/Co0N9ivw.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/entry/app.ClEh9DAQ.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/BapAUJpM.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/DtrdqW9F.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/DsnmJJEf.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/73Kp2zFG.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/0V_RfVVC.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/8DvQmKcs.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/BkD-eRfk.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/EaNDiqUf.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/nodes/0.BDuzS26y.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/C2JAbztn.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/4YstYjTA.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/DaM8PDMK.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/BZ3pOy4Q.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/CwBXz5fr.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/DEKr6ebT.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/vTDR4b3d.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/CgroewNY.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/BcWDqWEx.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/ChtFofJR.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/FpPf08rP.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/k2DhhfYl.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/CSOIYN8Y.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/CWMrfper.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/BfYqsIK2.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/CF735G9x.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/BjNqHiGC.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/HW7EHQVA.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/CMopq8vA.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/D8HzdPGD.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/CeMlYiZP.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/BNzgKkWj.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/nodes/4.CPDgpGlp.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/Db1PPcoI.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/ByPAb1Rk.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/nodes/35.B52odGpT.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/DSIjgyn-.js"
+      },
+      {
+        "method": "GET",
+        "type": "image",
+        "url": "https://soonbody.com/logo.svg"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/nodes/1.DQIr21hk.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/Cpti01B-.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/DkNo00Qc.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/Xy2T5FXL.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/Yih3MLy-.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/CnSZ1lOv.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/xrxve9JD.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/_dJAKM_S.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/nO8uk5Ff.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/CaXFW32f.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/B3NSqEQQ.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/DZ5dKPRo.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/kQkSol7A.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/BSUkvDvW.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/BQMlbt_2.js"
+      },
+      {
+        "method": "POST",
+        "type": "fetch",
+        "url": "https://soonbody.com/api/crm/an-v2/an"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/metrics/1wisussqfwb.js?bsk8u=CxNbNic%2BWD0gTlIrRCU%2FVRRKVF9CVREdXwQJHh0RGhcbWQUeHg%3D%3D"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/C50tD0x8.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/_app/immutable/chunks/DfgHyQdU.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/cdn-cgi/challenge-platform/scripts/jsd/main.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://soonbody.com/cdn-cgi/challenge-platform/h/b/scripts/jsd/d2d3316b729e/main.js?"
+      },
+      {
+        "method": "POST",
+        "type": "xhr",
+        "url": "https://soonbody.com/cdn-cgi/challenge-platform/h/b/jsd/oneshot/d2d3316b729e/0.9970241973603543:1792069239:GTsFlznYZ_VsKig6fT6Zq0xP1H-1T0EHJmbg6ZoECAo/a4af6d2a5c7fa64f"
+      },
+      {
+        "method": "POST",
+        "type": "fetch",
+        "url": "https://soonbody.com/api/track/data?v=2&event=page_view"
+      },
+      {
+        "method": "POST",
+        "type": "xhr",
+        "url": "https://soonbody.com/cdn-cgi/rum?"
+      },
+      {
+        "method": "POST",
+        "type": "ping",
+        "url": "https://soonbody.com/api/analytics/events/batch"
+      },
+      {
+        "method": "GET",
+        "type": "other",
+        "url": "https://soonbody.com/favicon.svg"
+      }
+    ],
+    "fonts.googleapis.com": [
+      {
+        "method": "GET",
+        "type": "stylesheet",
+        "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Montserrat:wght@500;600;700&family=Playfair+Display:wght@600&family=Poppins:wght@400;500;600;700&family=Red+Hat+Display:wght@400;500;600;700&display=swap"
+      }
+    ],
+    "static.cloudflareinsights.com": [
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920"
+      }
+    ],
+    "us-assets.i.posthog.com": [
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://us-assets.i.posthog.com/array/phc_ExyXdpe5z9fJK0BH1GpLS2Y7UaeRFMpPcvkxXODmBqz/config.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://us-assets.i.posthog.com/static/surveys.js?v=1.407.1"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://us-assets.i.posthog.com/static/exception-autocapture.js?v=1.407.1"
+      }
+    ],
+    "cdn.soonbody.com": [
+      {
+        "method": "GET",
+        "type": "image",
+        "url": "https://cdn.soonbody.com/media/o6ebcg87asby3lpan5y8lkui/original.svg"
+      },
+      {
+        "method": "GET",
+        "type": "image",
+        "url": "https://cdn.soonbody.com/media/bwhouia098qm6c673a7ri7af/original.svg"
+      },
+      {
+        "method": "GET",
+        "type": "image",
+        "url": "https://cdn.soonbody.com/media/pv19v653z4snumseif7ctt4m/original.svg"
+      }
+    ],
+    "fonts.gstatic.com": [
+      {
+        "method": "GET",
+        "type": "font",
+        "url": "https://fonts.gstatic.com/s/redhatdisplay/v21/8vIQ7wUr0m80wwYf0QCXZzYzUoTg_T6h.woff2"
+      },
+      {
+        "method": "GET",
+        "type": "font",
+        "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2"
+      }
+    ],
+    "us.i.posthog.com": [
+      {
+        "method": "POST",
+        "type": "fetch",
+        "url": "https://us.i.posthog.com/flags/?v=2&ver=1.407.1&compression=base64"
+      }
+    ],
+    "s.axon.ai": [
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://s.axon.ai/pixel.js"
+      }
+    ],
+    "sgtm.soonbody.com": [
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://sgtm.soonbody.com/1wisussqfwb/9fbbt?4033c5d5=L2d0YWcvanM%2FaWQ9Ry1aMERTTThGSlpMJmN4PWMmZ3RtPTRlNmFkMQ%3D%3D"
+      }
+    ],
+    "connect.facebook.net": [
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://connect.facebook.net/en_US/fbevents.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://connect.facebook.net/signals/config/1165879388928886?v=2.9.419&r=stable&domain=soonbody.com&hme=7459fa3e38c2784dbaf309537bed5fa7e8560fab51fb61e53e5ffafeb46a02a9&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C339%2C361%2C248%2C237%2C70%2C238%2C236%2C364%2C355%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189"
+      }
+    ],
+    "stapecdn.com": [
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://stapecdn.com/dtag/v9.js"
+      }
+    ],
+    "s.pinimg.com": [
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://s.pinimg.com/ct/core.js"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://s.pinimg.com/ct/lib/main.f1fea82a.js"
+      }
+    ],
+    "b-code.liadm.com": [
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://b-code.liadm.com/b-03li.min.js"
+      }
+    ],
+    "analytics.google.com": [
+      {
+        "method": "HEAD",
+        "type": "fetch",
+        "url": "https://analytics.google.com/g/collect?a=adblocker_check"
+      },
+      {
+        "method": "POST",
+        "type": "fetch",
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-Z0DSM8FJZL&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xf3&_p=1792073627777&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAACAC&cid=1032365141.1792073629&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=1&sr=1280x720&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.79%7CChromium%3B155.0.8059.79%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=pt-br&_s=1&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1792073629&sct=1&seg=0&dl=https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2&dt=SoonBody%20%E2%80%94%20Your%20Personalized%20Body%20Transformation%20Plan&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=2332"
+      }
+    ],
+    "b.applovin.com": [
+      {
+        "method": "GET",
+        "type": "fetch",
+        "url": "https://b.applovin.com/v1/pixel/config?event_key=54e09a06-3517-437c-8fcc-5436c1a93ad5"
+      },
+      {
+        "method": "POST",
+        "type": "ping",
+        "url": "https://b.applovin.com/v1/pixel"
+      },
+      {
+        "method": "GET",
+        "type": "image",
+        "url": "https://b.applovin.com/v1/gcm/match?cek=54e09a06-3517-437c-8fcc-5436c1a93ad5&google_gid=CAESEB7aky-mnbH75keFdrl3LPY&google_cver=1"
+      }
+    ],
+    "ct.pinterest.com": [
+      {
+        "method": "GET",
+        "type": "xhr",
+        "url": "https://ct.pinterest.com/user/?tid=2612611884737&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22gallery%22%7D&cb=1792073628826&dep=2%2CPAGE_LOAD"
+      },
+      {
+        "method": "GET",
+        "type": "fetch",
+        "url": "https://ct.pinterest.com/v3/?tid=2612611884737&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22gallery%22%7D&event=init&ad=%7B%22loc%22%3A%22https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2%22%2C%22ref%22%3A%22%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%22f1fea82a%22%2C%22is_eu%22%3Atrue%2C%22architecture%22%3A%22x86%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Windows%22%2C%22platformVersion%22%3A%2219.0.0%22%2C%22uaFullVersion%22%3A%22155.0.8059.79%22%7D&cb=1792073628830"
+      },
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://ct.pinterest.com/static/ct/token_create.js"
+      },
+      {
+        "method": "GET",
+        "type": "document",
+        "url": "https://ct.pinterest.com/ct.html"
+      }
+    ],
+    "capi-automation.s3.us-east-2.amazonaws.com": [
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://capi-automation.s3.us-east-2.amazonaws.com/public/client_js/capiParamBuilder/clientParamBuilder.bundle.js"
+      }
+    ],
+    "stats.g.doubleclick.net": [
+      {
+        "method": "POST",
+        "type": "ping",
+        "url": "https://stats.g.doubleclick.net/g/collect?v=2&ngs=1&ibt=1&tid=G-Z0DSM8FJZL&cid=1032365141.1792073629&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xf3&rcb=1&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034"
+      }
+    ],
+    "googleads.g.doubleclick.net": [
+      {
+        "method": "GET",
+        "type": "script",
+        "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/18181839750/?random=1792073629439&cv=11&fst=1792073629439&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xecxf3&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2&rcb=1&frm=0&tiba=SoonBody%20%E2%80%94%20Your%20Personalized%20Body%20Transformation%20Plan&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1230807441.1792073629&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.79%7CChromium%3B155.0.8059.79%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4"
+      }
+    ],
+    "www.google.com": [
+      {
+        "method": "POST",
+        "type": "fetch",
+        "url": "https://www.google.com/rmkt/collect/18181839750/?random=1792073629439&cv=11&fst=1792073629439&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xecxf3&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2&rcb=1&frm=0&tiba=SoonBody%20%E2%80%94%20Your%20Personalized%20Body%20Transformation%20Plan&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1230807441.1792073629&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.79%7CChromium%3B155.0.8059.79%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5"
+      },
+      {
+        "method": "POST",
+        "type": "fetch",
+        "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=1&auid=1230807441.1792073629&dt=SoonBody%20%E2%80%94%20Your%20Personalized%20Body%20Transformation%20Plan&tid=AW-18181839750&en=page_view&dl=https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2&scrsrc=sgtm.soonbody.com&rnd=689404910.1792073629&navt=n&npa=0&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xecxf3&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792073629455&tfd=2351&tids=AW-18181839750&fmt=8"
+      },
+      {
+        "method": "GET",
+        "type": "image",
+        "url": "https://www.google.com/pagead/1p-user-list/18181839750/?random=1792073629439&cv=11&fst=1792072800000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xecxf3&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2&rcb=1&frm=0&tiba=SoonBody%20%E2%80%94%20Your%20Personalized%20Body%20Transformation%20Plan&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1230807441.1792073629&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.79%7CChromium%3B155.0.8059.79%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS7AEAQM4h3MateG4rZtgWf0FkNRWoKGaako4Fbd1f4SdmV46yY7FB2tiAsXqYJhvzLmBmlKd714y7vj4FsB54nixS3tZwM4wIIGGMxmH-sKBCDqpjFvxTcVnrTIBSLg674oefxleA36J_sdWXMzdKNJcVBsTw52YqfqRw_mn3U5q4_wf279HdHibJJ9EhQFePGAUYJ2x9VOBxWIeNcHYsaVI7UzAHPAVw2IcitxjCZQ-x9-Amrs-HIK74QEAE3DW6_OLnmrPI4vYnjhKgBLKHgsukMX5eHCQuuHfUnUzOzLLwBESYM9gRN62GZLYO_Q&random=763693910&rmt_tld=0&ipr=y"
+      }
+    ],
+    "www.google.com.br": [
+      {
+        "method": "GET",
+        "type": "image",
+        "url": "https://www.google.com.br/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&ngs=1&ibt=1&tid=G-Z0DSM8FJZL&cid=1032365141.1792073629&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xf3&rcb=1&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&z=1379247779"
+      },
+      {
+        "method": "GET",
+        "type": "image",
+        "url": "https://www.google.com.br/pagead/1p-user-list/18181839750/?random=1792073629439&cv=11&fst=1792072800000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xecxf3&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2&rcb=1&frm=0&tiba=SoonBody%20%E2%80%94%20Your%20Personalized%20Body%20Transformation%20Plan&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1230807441.1792073629&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.79%7CChromium%3B155.0.8059.79%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS7AEAQM4h3MateG4rZtgWf0FkNRWoKGaako4Fbd1f4SdmV46yY7FB2tiAsXqYJhvzLmBmlKd714y7vj4FsB54nixS3tZwM4wIIGGMxmH-sKBCDqpjFvxTcVnrTIBSLg674oefxleA36J_sdWXMzdKNJcVBsTw52YqfqRw_mn3U5q4_wf279HdHibJJ9EhQFePGAUYJ2x9VOBxWIeNcHYsaVI7UzAHPAVw2IcitxjCZQ-x9-Amrs-HIK74QEAE3DW6_OLnmrPI4vYnjhKgBLKHgsukMX5eHCQuuHfUnUzOzLLwBESYM9gRN62GZLYO_Q&random=763693910&rmt_tld=1&ipr=y"
+      }
+    ],
+    "ad.doubleclick.net": [
+      {
+        "method": "POST",
+        "type": "fetch",
+        "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1230807441.1792073629&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xecxf3&fmt=8"
+      }
+    ],
+    "cm.g.doubleclick.net": [
+      {
+        "method": "GET",
+        "type": "image",
+        "url": "https://cm.g.doubleclick.net/pixel?google_nid=aplv&google_cm&cek=54e09a06-3517-437c-8fcc-5436c1a93ad5"
+      }
+    ]
+  },
+  "failed": [
+    {
+      "type": "fetch",
+      "url": "https://analytics.google.com/g/collect?a=adblocker_check",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "type": "fetch",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-Z0DSM8FJZL&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xf3&_p=1792073627777&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAACAC&cid=1032365141.1792073629&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=1&sr=1280x720&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.79%7CChromium%3B155.0.8059.79%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=pt-br&_s=1&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1792073629&sct=1&seg=0&dl=https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2&dt=SoonBody%20%E2%80%94%20Your%20Personalized%20Body%20Transformation%20Plan&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=2332",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=1&auid=1230807441.1792073629&dt=SoonBody%20%E2%80%94%20Your%20Personalized%20Body%20Transformation%20Plan&tid=AW-18181839750&en=page_view&dl=https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2&scrsrc=sgtm.soonbody.com&rnd=689404910.1792073629&navt=n&npa=0&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xecxf3&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792073629455&tfd=2351&tids=AW-18181839750&fmt=8",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "type": "fetch",
+      "url": "https://www.google.com/rmkt/collect/18181839750/?random=1792073629439&cv=11&fst=1792073629439&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xecxf3&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fsoonbody.com%2Fpt%2Fflow-tai-chi-yoga-2&rcb=1&frm=0&tiba=SoonBody%20%E2%80%94%20Your%20Personalized%20Body%20Transformation%20Plan&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1230807441.1792073629&uaa=x86&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.79%7CChromium%3B155.0.8059.79%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "type": "fetch",
+      "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1230807441.1792073629&gtm=45je6ad1v9246088390za20szb9246065744zd9246065744xecxf3&fmt=8",
+      "failure": "net::ERR_ABORTED"
+    },
+    {
+      "type": "script",
+      "url": "https://b-code.liadm.com/b-03li.min.js",
+      "failure": "net::ERR_NAME_NOT_RESOLVED"
+    }
+  ]
+}

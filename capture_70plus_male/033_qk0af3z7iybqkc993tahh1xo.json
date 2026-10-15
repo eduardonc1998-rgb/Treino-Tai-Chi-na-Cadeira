@@ -1,0 +1,19 @@
+{
+  "branch": "70plus_male",
+  "step": 33,
+  "step_id": "qk0af3z7iybqkc993tahh1xo",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/qk0af3z7iybqkc993tahh1xo",
+  "type": "question",
+  "template": "multi-selection-default",
+  "name": "Multi Select",
+  "question": "Algum dos eventos abaixo contribuiu para o ganho de peso nos últimos anos?",
+  "options_found": [
+    "  Vida familiar agitada ",
+    "  Divórcio ou término de relacionamento ",
+    "  Metabolismo mais lento ",
+    "  Pandemia de Covid-19 ",
+    "  Outros eventos estressantes ",
+    "  Nenhuma das opções acima "
+  ],
+  "main_text": "Algum dos eventos abaixo contribuiu para o ganho de peso nos últimos anos?\n\nSelecione todos que se aplicam\n\nVida familiar agitada\nDivórcio ou término de relacionamento\nMetabolismo mais lento\nPandemia de Covid-19\nOutros eventos estressantes\nNenhuma das opções acima"
+}

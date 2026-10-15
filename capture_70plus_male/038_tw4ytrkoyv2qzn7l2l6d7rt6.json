@@ -1,0 +1,12 @@
+{
+  "branch": "70plus_male",
+  "step": 38,
+  "step_id": "tw4ytrkoyv2qzn7l2l6d7rt6",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/tw4ytrkoyv2qzn7l2l6d7rt6",
+  "type": "question",
+  "template": "input-number",
+  "name": "Number Input",
+  "question": "Qual é a sua idade?",
+  "options_found": [],
+  "main_text": "Qual é a sua idade?\n\n👆 Saber sua idade nos ajuda a planejar seu metabolismo\n\nPedimos sua idade porque seu metabolismo e suas necessidades nutricionais mudam ao longo do tempo. Com essa informação, garantimos que suas metas calóricas sejam seguras e eficazes para a sua fase de vida."
+}

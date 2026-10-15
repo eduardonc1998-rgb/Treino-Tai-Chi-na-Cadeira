@@ -1,0 +1,17 @@
+{
+  "branch": "40-49_female",
+  "step": 18,
+  "step_id": "si5ktgts4ftv2ngaoub5dow4",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/si5ktgts4ftv2ngaoub5dow4",
+  "type": "question",
+  "template": "selection-default",
+  "name": "Text Options",
+  "question": "Com que frequência você vai caminhar?",
+  "options_found": [
+    " Quase todos os dias ",
+    " 3-4 vezes por semana ",
+    " 1-2 vezes por semana ",
+    " Mais ou menos uma vez por mês "
+  ],
+  "main_text": "Com que frequência você vai caminhar?\nQuase todos os dias\n3-4 vezes por semana\n1-2 vezes por semana\nMais ou menos uma vez por mês"
+}

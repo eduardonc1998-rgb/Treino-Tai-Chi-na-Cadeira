@@ -1,0 +1,1 @@
+import{a}from"./CeMlYiZP.js";import{t as e}from"./ChtFofJR.js";import{g as n}from"./Co0N9ivw.js";async function f(){const t=n(e);try{if(!a.getVisitor())return t;const s=await fetch("/api/analytics/traffic-assessment",{cache:"no-store"});if(!s.ok)return t;const r=await s.json()===!0;return e.set(r),r}catch{return t}}export{f as r};

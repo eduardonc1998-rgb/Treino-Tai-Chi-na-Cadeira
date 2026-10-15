@@ -1,0 +1,12 @@
+{
+  "branch": "70plus_male",
+  "step": 7,
+  "step_id": "jb6k7bu1fywyp6gyhvbgi64d",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/jb6k7bu1fywyp6gyhvbgi64d",
+  "type": "info",
+  "template": "info-default",
+  "name": "Info Screen",
+  "title": "Você vai se sair muito bem!",
+  "options_found": [],
+  "main_text": "Temos a solução ideal para você!\n\nPara homens na sua faixa etária, o Yoga na Cadeira é uma excelente opção para entrar em forma com o mínimo de esforço.\n\n10 a 15 minutos por dia para ver as primeiras mudanças."
+}

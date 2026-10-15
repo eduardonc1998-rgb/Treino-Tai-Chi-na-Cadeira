@@ -1,0 +1,18 @@
+{
+  "branch": "70plus_male",
+  "step": 34,
+  "step_id": "zp6e3gbnjd2084ttruucm9p8",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/zp6e3gbnjd2084ttruucm9p8",
+  "type": "question",
+  "template": "selection-icon",
+  "name": "Icon Options",
+  "question": "Qual é o seu principal motivo para entrar em forma?",
+  "options_found": [
+    " Sentir mais confiança no meu corpo ",
+    " Sentir-me mais saudável e cheio de energia ",
+    " Caber melhor nas minhas roupas ",
+    " Praticar esportes e atividades com facilidade ",
+    " Outro "
+  ],
+  "main_text": "Qual é o seu principal motivo para entrar em forma?\nSentir mais confiança no meu corpo\nSentir-me mais saudável e cheio de energia\nCaber melhor nas minhas roupas\nPraticar esportes e atividades com facilidade\nOutro"
+}

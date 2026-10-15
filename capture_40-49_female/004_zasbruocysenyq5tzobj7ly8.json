@@ -1,0 +1,15 @@
+{
+  "branch": "40-49_female",
+  "step": 4,
+  "step_id": "zasbruocysenyq5tzobj7ly8",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/zasbruocysenyq5tzobj7ly8",
+  "type": "question",
+  "template": "selection-default",
+  "name": "Text Options",
+  "question": "Já experimentou treinos de Tai Chi Chair Yoga antes?",
+  "options_found": [
+    " Sim ",
+    " Não "
+  ],
+  "main_text": "Já experimentou treinos de Tai Chi Chair Yoga antes?\nSim\nNão"
+}

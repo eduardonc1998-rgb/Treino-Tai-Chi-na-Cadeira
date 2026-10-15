@@ -1,0 +1,19 @@
+{
+  "branch": "40-49_female",
+  "step": 30,
+  "step_id": "qhdkcz1ey4zot5z181k5s207",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/qhdkcz1ey4zot5z181k5s207",
+  "type": "question",
+  "template": "selection-icon",
+  "name": "Icon Options",
+  "question": "Que tipo de dieta você prefere?",
+  "options_found": [
+    " Tradicional ",
+    " Keto ",
+    " Paleo ",
+    " Mediterrânea ",
+    " Sem lactose ",
+    " Sem glúten "
+  ],
+  "main_text": "Que tipo de dieta você prefere?\nTradicional\nKeto\nPaleo\nMediterrânea\nSem lactose\nSem glúten"
+}

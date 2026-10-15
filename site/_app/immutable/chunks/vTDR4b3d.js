@@ -1,0 +1,1 @@
+import{s as e,p as t,n as r}from"./BiLmNkjk.js";const a={get data(){return t.data},get error(){return t.error},get form(){return t.form},get params(){return t.params},get route(){return t.route},get state(){return t.state},get status(){return t.status},get url(){return t.url}},n={get to(){return r.current?r.current.to:null}};e.updated.check;const u=a,g=n;export{g as n,u as p};

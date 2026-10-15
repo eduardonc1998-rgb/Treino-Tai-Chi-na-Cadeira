@@ -1,0 +1,18 @@
+{
+  "branch": "70plus_male",
+  "step": 31,
+  "step_id": "wyl3n9yab9u9d53sf1614kwj",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/wyl3n9yab9u9d53sf1614kwj",
+  "type": "question",
+  "template": "multi-selection-default",
+  "name": "Multi Select",
+  "question": "Você tem algum dos seguintes hábitos?",
+  "options_found": [
+    "  Comer por emoção ",
+    "  Comer em excesso ",
+    "  Beliscar à noite ",
+    "  Pular refeições com frequência ",
+    "  Nenhuma das anteriores "
+  ],
+  "main_text": "Você tem algum dos seguintes hábitos?\nComer por emoção\nComer em excesso\nBeliscar à noite\nPular refeições com frequência\nNenhuma das anteriores"
+}

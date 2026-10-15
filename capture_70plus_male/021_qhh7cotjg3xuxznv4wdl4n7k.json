@@ -1,0 +1,17 @@
+{
+  "branch": "70plus_male",
+  "step": 21,
+  "step_id": "qhh7cotjg3xuxznv4wdl4n7k",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/qhh7cotjg3xuxznv4wdl4n7k",
+  "type": "question",
+  "template": "selection-icon",
+  "name": "Icon Options",
+  "question": "Como é a sua rotina de trabalho?",
+  "options_found": [
+    " 9-5 ",
+    " Meu horário é flexível ",
+    " Turnos noturnos ",
+    " Estou aposentado(a) / sem trabalhar no momento "
+  ],
+  "main_text": "Como é a sua rotina de trabalho?\n9-5\nMeu horário é flexível\nTurnos noturnos\nEstou aposentado(a) / sem trabalhar no momento"
+}

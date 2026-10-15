@@ -1,0 +1,8 @@
+Qual é o seu peso atual?
+KG
+LBS
+KG
+
+👆 Pedimos seu peso para calcular o IMC
+
+O Índice de Massa Corporal (IMC) é uma medida de percentual de gordura corporal amplamente utilizada para estimar riscos de possíveis problemas de saúde.

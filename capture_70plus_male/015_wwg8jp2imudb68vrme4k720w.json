@@ -1,0 +1,17 @@
+{
+  "branch": "70plus_male",
+  "step": 15,
+  "step_id": "wwg8jp2imudb68vrme4k720w",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/wwg8jp2imudb68vrme4k720w",
+  "type": "question",
+  "template": "selection-default",
+  "name": "Text Options",
+  "question": "Qual é o seu nível de flexibilidade?",
+  "options_found": [
+    " Bem flexível ",
+    " Apenas começando ",
+    " Não muito bem ",
+    " Não tenho certeza "
+  ],
+  "main_text": "Qual é o seu nível de flexibilidade?\nBem flexível\nApenas começando\nNão muito bem\nNão tenho certeza"
+}

@@ -1,0 +1,15 @@
+{
+  "branch": "70plus_male",
+  "step": 35,
+  "step_id": "owl53mzl0pmdpnosb1648ovf",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/owl53mzl0pmdpnosb1648ovf",
+  "type": "question",
+  "template": "input-number",
+  "name": "Number Input",
+  "question": "Qual é a sua altura?",
+  "options_found": [
+    "CM",
+    "FT"
+  ],
+  "main_text": "Qual é a sua altura?\nCM\nFT\nFT\nIN\n\n👆 Pedimos sua altura para calcular o IMC\n\nO Índice de Massa Corporal (IMC) é uma medida do percentual de gordura corporal usada para estimar o risco de possíveis problemas de saúde."
+}

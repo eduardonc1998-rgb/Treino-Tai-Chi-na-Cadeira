@@ -1,0 +1,19 @@
+{
+  "branch": "70plus_male",
+  "step": 19,
+  "step_id": "itf05bzfmgkpt9b7f8b85ncn",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/itf05bzfmgkpt9b7f8b85ncn",
+  "type": "question",
+  "template": "multi-selection-default",
+  "name": "Multi Select",
+  "question": "Você tem algum problema nas seguintes áreas?",
+  "options_found": [
+    "  Ombros ",
+    "  Costas ",
+    "  Cotovelos ",
+    "  Joelhos ",
+    "  Tornozelos ",
+    "  Nenhuma das anteriores "
+  ],
+  "main_text": "Você tem algum problema nas seguintes áreas?\nOmbros\nCostas\nCotovelos\nJoelhos\nTornozelos\nNenhuma das anteriores"
+}

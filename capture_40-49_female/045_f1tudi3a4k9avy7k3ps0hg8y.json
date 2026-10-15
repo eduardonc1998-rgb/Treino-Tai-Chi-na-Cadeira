@@ -1,0 +1,12 @@
+{
+  "branch": "40-49_female",
+  "step": 45,
+  "step_id": "f1tudi3a4k9avy7k3ps0hg8y",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/f1tudi3a4k9avy7k3ps0hg8y",
+  "type": "info",
+  "template": "info-consent",
+  "name": "Consent Prompt",
+  "question": "Quer receber e-mails com dicas de Fitness e Bem-estar e novidades sobre nossos produtos?",
+  "options_found": [],
+  "main_text": "Quer receber e-mails com dicas de Fitness e Bem-estar e novidades sobre nossos produtos?\n👌\n\nFique tranquilo(a), não vamos encher sua caixa de entrada com spam."
+}

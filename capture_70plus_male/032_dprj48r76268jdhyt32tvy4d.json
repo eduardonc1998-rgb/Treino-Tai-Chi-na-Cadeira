@@ -1,0 +1,18 @@
+{
+  "branch": "70plus_male",
+  "step": 32,
+  "step_id": "dprj48r76268jdhyt32tvy4d",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/dprj48r76268jdhyt32tvy4d",
+  "type": "question",
+  "template": "multi-selection-default",
+  "name": "Multi Select",
+  "question": "Quais alimentos você costuma ter mais vontade de comer?",
+  "options_found": [
+    "  Doces ",
+    "  Salgadinhos ",
+    "  Fast food ",
+    "  Refrigerante ",
+    "  Nenhuma das opções "
+  ],
+  "main_text": "Quais alimentos você costuma ter mais vontade de comer?\n\nSelecione todas as opções que se aplicam\n\nDoces\nSalgadinhos\nFast food\nRefrigerante\nNenhuma das opções"
+}

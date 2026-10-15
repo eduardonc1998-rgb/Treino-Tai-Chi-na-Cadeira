@@ -1,0 +1,15 @@
+{
+  "branch": "40-49_female",
+  "step": 6,
+  "step_id": "bcp6yfjzur7p4nx3qdzi7nde",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/bcp6yfjzur7p4nx3qdzi7nde",
+  "type": "question",
+  "template": "selection-icon",
+  "name": "Icon Options",
+  "question": "Qual é o seu objetivo principal?",
+  "options_found": [
+    " Perder peso ",
+    " Manter o peso e ficar em forma "
+  ],
+  "main_text": "Qual é o seu objetivo principal?\nPerder peso\nManter o peso e ficar em forma"
+}

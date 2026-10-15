@@ -1,0 +1,1 @@
+import{g as e,i as n,j as r}from"./CkHUqsAe.js";let a=n(null);function i(t){t&&r(a,t,!0)}function s(){return e(a)}function u(t){try{return new URL(t,"http://local").pathname}catch{return t}}export{s as g,i as n,u as p};

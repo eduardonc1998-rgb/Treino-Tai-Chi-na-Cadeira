@@ -1,0 +1,17 @@
+{
+  "branch": "70plus_male",
+  "step": 10,
+  "step_id": "if586cc3ij11vz6eyyhz6i8r",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/if586cc3ij11vz6eyyhz6i8r",
+  "type": "question",
+  "template": "selection-image",
+  "name": "Image Cards",
+  "question": "Qual é o seu corpo dos sonhos?",
+  "options_found": [
+    " Alguns tamanhos menor ",
+    " Magro(a) ",
+    " Definido(a) ",
+    " Com curvas "
+  ],
+  "main_text": "Qual é o seu corpo dos sonhos?\nAlguns tamanhos menor\nMagro(a)\nDefinido(a)\nCom curvas"
+}

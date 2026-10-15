@@ -1,0 +1,20 @@
+{
+  "branch": "70plus_male",
+  "step": 40,
+  "step_id": "m9leibpy2524wzez6y3ie3ct",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/m9leibpy2524wzez6y3ie3ct",
+  "type": "question",
+  "template": "selection-icon",
+  "name": "Icon Options",
+  "question": "Você tem algum evento próximo para o qual gostaria de se preparar?",
+  "options_found": [
+    " Aniversário ",
+    " Casamento ",
+    " Férias ",
+    " Reencontro ",
+    " Evento esportivo ",
+    " Outra ocasião ",
+    " Não - só quero me sentir e parecer no meu melhor! "
+  ],
+  "main_text": "Você tem algum evento próximo para o qual gostaria de se preparar?\nAniversário\nCasamento\nFérias\nReencontro\nEvento esportivo\nOutra ocasião\nNão - só quero me sentir e parecer no meu melhor!"
+}

@@ -1,0 +1,15 @@
+{
+  "branch": "70plus_male",
+  "step": 6,
+  "step_id": "rbb15t3655iyp9ion5ni0ujv",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/rbb15t3655iyp9ion5ni0ujv",
+  "type": "question",
+  "template": "selection-icon",
+  "name": "Icon Options",
+  "question": "Qual é o seu principal objetivo?",
+  "options_found": [
+    " Perder peso ",
+    " Manter o peso e ficar em forma "
+  ],
+  "main_text": "Qual é o seu principal objetivo?\nPerder peso\nManter o peso e ficar em forma"
+}

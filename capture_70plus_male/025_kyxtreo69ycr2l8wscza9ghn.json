@@ -1,0 +1,17 @@
+{
+  "branch": "70plus_male",
+  "step": 25,
+  "step_id": "kyxtreo69ycr2l8wscza9ghn",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/kyxtreo69ycr2l8wscza9ghn",
+  "type": "question",
+  "template": "selection-icon",
+  "name": "Icon Options",
+  "question": "Quanta água você bebe por dia?",
+  "options_found": [
+    " Só tomo café ou chá ",
+    " Cerca de 2 copos (480 ml) ",
+    " 2 a 6 copos (480–1440 ml) ",
+    " Mais de 6 copos (1440+ ml) "
+  ],
+  "main_text": "Quanta água você bebe por dia?\nSó tomo café ou chá\nCerca de 2 copos (480 ml)\n2 a 6 copos (480–1440 ml)\nMais de 6 copos (1440+ ml)"
+}

@@ -1,0 +1,17 @@
+{
+  "branch": "70plus_male",
+  "step": 23,
+  "step_id": "um5teo3my6tx1dbye2c3eb3y",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/um5teo3my6tx1dbye2c3eb3y",
+  "type": "question",
+  "template": "selection-icon",
+  "name": "Icon Options",
+  "question": "Como estão seus níveis de energia durante o dia?",
+  "options_found": [
+    " Baixa, me sinto cansado o dia todo ",
+    " Queda de energia após o almoço ",
+    " Caindo antes das refeições ",
+    " Alta e constante "
+  ],
+  "main_text": "Como estão seus níveis de energia durante o dia?\nBaixa, me sinto cansado o dia todo\nQueda de energia após o almoço\nCaindo antes das refeições\nAlta e constante"
+}

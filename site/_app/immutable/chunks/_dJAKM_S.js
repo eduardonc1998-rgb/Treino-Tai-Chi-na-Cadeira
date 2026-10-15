@@ -1,0 +1,1 @@
+const n="session_id",o=()=>{if(typeof window>"u")return"";const e=window.localStorage.getItem(n);return!e||e==="null"||e==="undefined"?"":e},t=e=>{typeof window>"u"||!e||e==="null"||e==="undefined"||window.localStorage.setItem(n,e)},r=()=>{typeof window>"u"||window.localStorage.removeItem(n)};export{r as c,o as g,t as s};

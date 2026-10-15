@@ -1,0 +1,5 @@
+Quantas horas você costuma dormir?
+Menos de 5 horas
+5-6 horas
+7-8 horas
+Mais de 8 horas

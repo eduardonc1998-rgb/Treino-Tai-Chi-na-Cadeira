@@ -1,0 +1,16 @@
+{
+  "branch": "70plus_male",
+  "step": 43,
+  "step_id": "n8kh8waefp7jinfb963xn8lk",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/n8kh8waefp7jinfb963xn8lk",
+  "type": "question",
+  "template": "selection-icon",
+  "name": "Icon Options",
+  "question": "Quão confiante você está em alcançar seus objetivos?",
+  "options_found": [
+    " Acredito que consigo! ",
+    " Não tenho certeza, mas estou disposto(a) a tentar ",
+    " Ainda estou muito inseguro(a) "
+  ],
+  "main_text": "Quão confiante você está em alcançar seus objetivos?\nAcredito que consigo!\nNão tenho certeza, mas estou disposto(a) a tentar\nAinda estou muito inseguro(a)"
+}

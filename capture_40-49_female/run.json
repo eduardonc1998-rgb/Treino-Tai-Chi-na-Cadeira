@@ -1,0 +1,1991 @@
+{
+  "branch": "40-49_female",
+  "age": "40-49",
+  "gender": "Feminino",
+  "status": "stopped-before-purchase",
+  "captured_steps": [
+    {
+      "step_id": "xc58ofkvwqvddoxtmudm2wzb",
+      "type": "question",
+      "template": "grid-default",
+      "text": ""
+    },
+    {
+      "step_id": "ur340xfxl1ex4i90aqauqnnv",
+      "type": "question",
+      "template": "selection-image",
+      "text": "Escolha o seu género\nFeminino\nMasculino"
+    },
+    {
+      "step_id": "wxjpjo6rzhgi2n180f4ngkxo",
+      "type": "info",
+      "template": "info-default",
+      "text": "Mais de 1.000.000 de mulheres\n\nno seu grupo de idade já experimentaram o SoonBody\n\nJunte-se a elas e comece sua transformação hoje."
+    },
+    {
+      "step_id": "zasbruocysenyq5tzobj7ly8",
+      "type": "question",
+      "template": "selection-default",
+      "text": "Já experimentou treinos de Tai Chi Chair Yoga antes?\nSim\nNão"
+    },
+    {
+      "step_id": "ocybrjilm7xs6sc5irlb3pl7",
+      "type": "info",
+      "template": "info-default",
+      "text": "Você vai arrasar!\n\nNosso programa de Yoga na Cadeira é uma opção de exercício suave e eficaz para todos os níveis.\n\nVocê só precisa de uma cadeira para se exercitar em casa!"
+    },
+    {
+      "step_id": "bcp6yfjzur7p4nx3qdzi7nde",
+      "type": "question",
+      "template": "selection-icon",
+      "text": "Qual é o seu objetivo principal?\nPerder peso\nManter o peso e ficar em forma"
+    },
+    {
+      "step_id": "lh17uue1ltnui45k2zcacssy",
+      "type": "info",
+      "template": "info-default",
+      "text": "Temos a solução ideal para você\n\nPara mulheres na sua faixa etária, o Yoga na Cadeira é uma excelente opção para emagrecer com o mínimo de esforço.\n\n10-15 minutos por dia para ver as primeiras mudanças."
+    },
+    {
+      "step_id": "p10cqbhyg5h30jjdu9xvn40f",
+      "type": "question",
+      "template": "multi-selection-default",
+      "text": "O que mais você gostaria de focar?\n\nSelecione todas as que se aplicam\n\nGanhar força muscular\nManter a mobilidade\nReduzir o estresse e a ansiedade\nDesenvolver a flexibilidade\nNenhuma das opções"
+    },
+    {
+      "step_id": "ntwfxm4d9t2yhz1nfov4zpc8",
+      "type": "question",
+      "template": "selection-image",
+      "text": "Como você descreveria seu biotipo?\nMagro(a)\nMédio(a)\nCorpulento(a)\nTamanho grande"
+    },
+    {
+      "step_id": "if586cc3ij11vz6eyyhz6i8r",
+      "type": "question",
+      "template": "selection-image",
+      "text": "Qual é o seu corpo dos sonhos?\nAlguns tamanhos menor\nMagro(a)\nDefinido(a)\nCom curvas"
+    },
+    {
+      "step_id": "u5sor8ofpe0jz68w55cw58g7",
+      "type": "question",
+      "template": "selection-default",
+      "text": "Como o seu peso costuma mudar?\nEngordo rápido, mas emagreço devagar\nEngordo e emagreço com facilidade\nTenho dificuldade em ganhar peso ou músculo"
+    },
+    {
+      "step_id": "r43nvq1hlnioppdel1o70zsb",
+      "type": "info",
+      "template": "info-default",
+      "text": "Impulsione seu progresso com Chair Yoga\n\nGanhe ou perca peso no seu tempo! O Chair Yoga se adapta a você e ao seu objetivo.\n\nQueime calorias e molde sua jornada. Seu ritmo, suas regras — sua transformação."
+    },
+    {
+      "step_id": "p8i6rz5kyztw7q4dbxdvxucz",
+      "type": "question",
+      "template": "selection-default",
+      "text": "Quando você estava na melhor forma?\nAgora mesmo!\nHá menos de um ano\nHá 1-3 anos\nHá mais de 3 anos\nNunca"
+    },
+    {
+      "step_id": "dgagwjo4ymqyz54bgc1vmkxg",
+      "type": "question",
+      "template": "multi-selection-default",
+      "text": "Quais são suas zonas-alvo?\n\nSelecione todas que se aplicam\n\nBraços\nPeito\nBarriga\nPernas"
+    },
+    {
+      "step_id": "ekc8qcemx7cvum9etlliusrc",
+      "type": "question",
+      "template": "selection-default",
+      "text": "Qual é o seu nível de flexibilidade?\nBem flexível\nSó estou começando\nNão muito bem\nNão tenho certeza"
+    },
+    {
+      "step_id": "eb8nzy2wcqoydnjjkl1otkl6",
+      "type": "question",
+      "template": "selection-default",
+      "text": "Com que frequência você se exercita?\nQuase todo dia\nVárias vezes por semana\nVárias vezes por mês\nNunca"
+    },
+    {
+      "step_id": "ye6xxglp1bqdqv3pswol5nu4",
+      "type": "question",
+      "template": "selection-default",
+      "text": "Você fica sem fôlego ao subir escadas?\nFico tão sem fôlego que não consigo falar\nFico um pouco sem fôlego\nConsigo subir um lance de escadas bem\nConsigo subir vários lances de escadas com facilidade"
+    },
+    {
+      "step_id": "si5ktgts4ftv2ngaoub5dow4",
+      "type": "question",
+      "template": "selection-default",
+      "text": "Com que frequência você vai caminhar?\nQuase todos os dias\n3-4 vezes por semana\n1-2 vezes por semana\nMais ou menos uma vez por mês"
+    },
+    {
+      "step_id": "qnf93yh6a3gf1e1maicyljdj",
+      "type": "question",
+      "template": "multi-selection-default",
+      "text": "Você tem algum problema com o seguinte?\n\nSelecione todos que se aplicam\n\nOmbros\nCostas\nCotovelos\nJoelhos\nTornozelos\nNenhuma das opções"
+    },
+    {
+      "step_id": "bo0e4i9y9k19r5pudjiayfhr",
+      "type": "info",
+      "template": "info-default",
+      "text": "Pode contar com a gente!\n\nDescubra exercícios de baixo impacto desenvolvidos para apoiar e fortalecer o seu corpo.\n\nDiga adeus à tensão corporal e olá para uma postura melhor, mais mobilidade e caminhadas diárias sem esforço!"
+    },
+    {
+      "step_id": "ekmczjpeoii87lrgorw8wn9u",
+      "type": "question",
+      "template": "selection-icon",
+      "text": "Como é a sua rotina de trabalho?\n9-5\nMeus horários são flexíveis\nTurno noturno\nSou aposentado(a) / não estou trabalhando agora"
+    },
+    {
+      "step_id": "w0z8es5wwrzsuie3olqao9fv",
+      "type": "question",
+      "template": "selection-icon",
+      "text": "Como é o seu dia a dia?\nFico sentado(a) a maior parte do dia\nFaço pausas ativas\nFico de pé o dia todo"
+    },
+    {
+      "step_id": "p9taeri1osi648wyh9ymnlff",
+      "type": "question",
+      "template": "selection-icon",
+      "text": "Como estão seus níveis de energia durante o dia?\nBaixa, me sinto cansado o dia todo\nQueda após o almoço\nSem energia antes das refeições\nAlta e constante"
+    },
+    {
+      "step_id": "ziegqgsulhmtl4eoahr4gwq4",
+      "type": "info",
+      "template": "info-default",
+      "text": "Acabe de vez com o cansaço pós-almoço com o nosso programa\n\nRecupera a tua mobilidade, melhora o teu bem-estar e ganha confiança no teu corpo com um programa feito para ti.\n\nQueremos que tenhas energia para viver a vida ao máximo!"
+    },
+    {
+      "step_id": "kyxtreo69ycr2l8wscza9ghn",
+      "type": "question",
+      "template": "selection-icon",
+      "text": "Quanta água você bebe por dia?\nSó tomo café ou chá\nCerca de 2 copos (480 ml)\n2 a 6 copos (480–1440 ml)\nMais de 6 copos (1440+ ml)"
+    },
+    {
+      "step_id": "w2h148pbsas53c2vi411bjzn",
+      "type": "question",
+      "template": "grid-default",
+      "text": "Quantas horas você costuma dormir?\nMenos de 5 horas\n5-6 horas\n7-8 horas\nMais de 8 horas"
+    },
+    {
+      "step_id": "wx51d3gf056z5ltkm6c3czfo",
+      "type": "question",
+      "template": "grid-default",
+      "text": "A que horas costumas tomar o pequeno-almoço?\nEntre as 6h e as 8h\nEntre as 8h e as 10h\nEntre as 10h e o meio-dia\nCostumo saltar o pequeno-almoço"
+    },
+    {
+      "step_id": "yro1v9qbhp0a409tadsq9y2m",
+      "type": "question",
+      "template": "grid-default",
+      "text": "E o almoço?\nEntre 10h e meio-dia\nEntre meio-dia e 14h\nEntre 14h e 16h\nCostumo pular o almoço"
+    },
+    {
+      "step_id": "oexb2697us9tq16hlw3vayjv",
+      "type": "question",
+      "template": "grid-default",
+      "text": "A que horas você janta?\nEntre 18h e 20h\nEntre 20h e 22h\nEntre 22h e meia-noite\nCostumo pular o jantar"
+    },
+    {
+      "step_id": "qhdkcz1ey4zot5z181k5s207",
+      "type": "question",
+      "template": "selection-icon",
+      "text": "Que tipo de dieta você prefere?\nTradicional\nKeto\nPaleo\nMediterrânea\nSem lactose\nSem glúten"
+    },
+    {
+      "step_id": "eu8sycmygattztml1gvb0iyo",
+      "type": "question",
+      "template": "multi-selection-default",
+      "text": "Você tem algum desses hábitos?\n\nSelecione todos que se aplicam\n\nComer por emoção\nComer em excesso\nBeliscar à noite\nPular refeições com frequência\nNenhuma das opções"
+    },
+    {
+      "step_id": "dprj48r76268jdhyt32tvy4d",
+      "type": "question",
+      "template": "multi-selection-default",
+      "text": "Quais alimentos você costuma ter mais vontade de comer?\n\nSelecione todas as opções que se aplicam\n\nDoces\nSalgadinhos\nFast food\nRefrigerante\nNenhuma das opções"
+    },
+    {
+      "step_id": "qk0af3z7iybqkc993tahh1xo",
+      "type": "question",
+      "template": "multi-selection-default",
+      "text": "Algum dos eventos abaixo contribuiu para o ganho de peso nos últimos anos?\n\nSelecione todos que se aplicam\n\nVida familiar agitada\nDivórcio ou término de relacionamento\nMetabolismo mais lento\nPandemia de Covid-19\nOutros eventos estressantes\n"
+    },
+    {
+      "step_id": "dtwe68uv1vdh3jyc9drhf6yj",
+      "type": "question",
+      "template": "selection-icon",
+      "text": "Qual é o teu principal motivo para entrar em forma?\nSentir mais confiança no meu corpo\nSentir-me mais saudável e com mais energia\nVestir melhor as minhas roupas\nPraticar desporto e atividades com facilidade\nOutro"
+    },
+    {
+      "step_id": "djmzondaj3qmeryufautfmk8",
+      "type": "question",
+      "template": "input-number",
+      "text": "Qual é a sua altura?\nCM\nFT\nFT\nIN\n\n👆 Pedimos sua altura para calcular o IMC\n\nO Índice de Massa Corporal (IMC) é uma medida do percentual de gordura corporal amplamente usada para estimar o risco de possíveis problemas de saúde."
+    },
+    {
+      "step_id": "v0wuf51xvljt69cipz1wx69i",
+      "type": "question",
+      "template": "input-number",
+      "text": "Qual é o seu peso atual?\nKG\nLBS\nKG\n\n👆 Pedimos seu peso para calcular o IMC\n\nO Índice de Massa Corporal (IMC) é uma medida do percentual de gordura corporal amplamente utilizada para estimar o risco de possíveis problemas de saúde."
+    },
+    {
+      "step_id": "spfekpczwmcbrmwfe3jw60b1",
+      "type": "question",
+      "template": "input-number",
+      "text": "Qual é o seu peso ideal?\nKG\nLBS\nKG\n\nSua faixa de peso saudável: 50 kg - 68 kg\n\n⭐️ Usamos sua meta para definir seu objetivo\n\nSaber seu peso ideal nos permite calcular seu Índice de Massa Corporal (IMC) e garantir que suas metas de emagrecim"
+    },
+    {
+      "step_id": "u5k157ji2adh3yfn8j0d0bb3",
+      "type": "question",
+      "template": "input-number",
+      "text": "Qual é a sua idade?\n\n👆 Saber sua idade nos ajuda a planejar a taxa metabólica do seu corpo\n\nPedimos sua idade porque sua taxa metabólica e necessidades nutricionais mudam com o tempo, e esses dados nos ajudam a garantir que suas metas caló"
+    },
+    {
+      "step_id": "txx1sh9smuorzytdww0bjmj3",
+      "type": "results",
+      "template": "analyze-profile",
+      "text": "Seu perfil fitness\nÍndice de Massa Corporal (IMC)\nNormal - 24.98\nSeu IMC é 24.98\nNormal\nAcima do peso\nObeso\nCondicionamento cardio\nAlto\nNível de condicionamento\nAvançado\nRiscos à saúde\nBaixo\n\n🤩 Ótimo IMC para começar a conquistar um corpo "
+    },
+    {
+      "step_id": "a9wm6wdg1awqhh44um1kcl6z",
+      "type": "question",
+      "template": "selection-icon",
+      "text": "Você tem algum evento próximo para o qual gostaria de se preparar?\nAniversário\nCasamento\nFérias\nReencontro\nEvento esportivo\nOutra ocasião\nNão - só quero me sentir e parecer incrível!"
+    },
+    {
+      "step_id": "o2ioi1howqntkcw2kmaon9h7",
+      "type": "question",
+      "template": "input-date",
+      "text": "Quando será o evento?\n15 de dez. de 2026"
+    },
+    {
+      "step_id": "ahlo3o8x9zg0nx3zoitxgn3b",
+      "type": "results",
+      "template": "analyze-prediction",
+      "text": "O único plano que você vai precisar para entrar em forma\nNossa previsão é que você estará\n64 KG\npor\nDEZEMBRO DE 2026\nPrepare-se para surpreender a todos no casamento\n📉 - 0.07 kg por dia\nObjetivo\n64 kg\nout.\ndez. de 2026"
+    },
+    {
+      "step_id": "n8kh8waefp7jinfb963xn8lk",
+      "type": "question",
+      "template": "selection-icon",
+      "text": "Quão confiante você está em alcançar seus objetivos?\nAcredito que consigo!\nNão tenho certeza, mas estou disposto(a) a tentar\nAinda estou muito inseguro(a)"
+    },
+    {
+      "step_id": "a0nqeqzlaje2nrm9t6qo7cpe",
+      "type": "results",
+      "template": "analyze-loading",
+      "text": "Analisando suas respostas...\nCompilando seu perfil\n6%\nCalculando seu metabolismo\n0%\nAjustando ao seu nível de atividade\n0%\nCriando plano personalizado\n0%\n\nConfiado por mais de 1.289.897 clientes\n\nSarah B.\n\nEu achei que não ia funcionar, ass"
+    },
+    {
+      "step_id": "f1tudi3a4k9avy7k3ps0hg8y",
+      "type": "info",
+      "template": "info-consent",
+      "text": "Quer receber e-mails com dicas de Fitness e Bem-estar e novidades sobre nossos produtos?\n👌\n\nFique tranquilo(a), não vamos encher sua caixa de entrada com spam."
+    },
+    {
+      "step_id": "tp1dp4kj58oz9lqa9ba7jsqe",
+      "type": "info",
+      "template": "info-scratch-card",
+      "text": "Raspe seu desconto especial\n\nQueremos que você comece sua jornada com uma surpresa especial\n\n77%\n\ndesconto\n\nno seu plano de\ntreino e bem-estar\n\nCódigo promocional\n77%_off"
+    },
+    {
+      "step_id": "iloxv7rf5nbs0u28d9beu05r",
+      "type": "summary",
+      "template": "summary-default",
+      "text": "10\nMINUTOS\n:\n00\nSEGUNDOS\nQuero Meu Plano\nAgora\nApós o programa\nGordura Corporal\n23-29%\nGordura Corporal\n22-28%\nSeu Plano de Tai Chi Yoga está pronto!\nSeu Objetivo\nPerder peso\nNível de Condicionamento\nAvançado\nPeso Desejado\n64 Kg\nCategoria d"
+    }
+  ],
+  "requests": [
+    {
+      "method": "GET",
+      "type": "document",
+      "url": "http://127.0.0.1:8765/pt/flow-tai-chi-yoga-2"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "http://127.0.0.1:8765/_hosts/fonts.googleapis.com/css2.css"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "http://127.0.0.1:8765/_app/immutable/assets/0.CjGrAOFD.css"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "http://127.0.0.1:8765/_app/immutable/assets/PaymentPrimerModal.J5itSwkR.css"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "http://127.0.0.1:8765/_app/immutable/assets/StepRenderer.Bn15l0Tf.css"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/logo.svg"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/entry/start.kRyursPG.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/entry/app.ClEh9DAQ.js"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "http://127.0.0.1:8765/_hosts/fonts.gstatic.com/s/redhatdisplay/v21/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbl6Wckg.ttf"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "http://127.0.0.1:8765/_hosts/fonts.gstatic.com/s/redhatdisplay/v21/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbouRckg.ttf"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "http://127.0.0.1:8765/_hosts/fonts.gstatic.com/s/redhatdisplay/v21/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbmyWckg.ttf"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BiLmNkjk.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BapAUJpM.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/DtrdqW9F.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/CkHUqsAe.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/Co0N9ivw.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/DsnmJJEf.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BPBfwgUT.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/73Kp2zFG.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/8DvQmKcs.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BkD-eRfk.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/EaNDiqUf.js"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/0V_RfVVC.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/nodes/0.BDuzS26y.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/C2JAbztn.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/4YstYjTA.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/DaM8PDMK.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BZ3pOy4Q.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/CwBXz5fr.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/DEKr6ebT.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/vTDR4b3d.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/CgroewNY.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BcWDqWEx.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/ChtFofJR.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/FpPf08rP.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/k2DhhfYl.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/CSOIYN8Y.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/CWMrfper.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BfYqsIK2.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/CF735G9x.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BjNqHiGC.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/HW7EHQVA.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/CMopq8vA.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/D8HzdPGD.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/CeMlYiZP.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BNzgKkWj.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/nodes/1.DQIr21hk.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/Cpti01B-.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/DkNo00Qc.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/nodes/4.CPDgpGlp.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/Db1PPcoI.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/Xy2T5FXL.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/Yih3MLy-.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/CnSZ1lOv.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/ByPAb1Rk.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/xrxve9JD.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/_dJAKM_S.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/nO8uk5Ff.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/CaXFW32f.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/nodes/35.B52odGpT.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/DSIjgyn-.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/B3NSqEQQ.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/DZ5dKPRo.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/kQkSol7A.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BSUkvDvW.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BQMlbt_2.js"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "http://127.0.0.1:8765/api/crm/an-v2/an"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://us-assets.i.posthog.com/array/phc_ExyXdpe5z9fJK0BH1GpLS2Y7UaeRFMpPcvkxXODmBqz/config.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/metrics/1wisussqfwb.js?bsk8u=CxNbNic%2BWD0gTlIrRCU%2FVRRKVF9CVREdXwQJHh0RGhcbWQUeHg%3D%3D"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/C50tD0x8.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/DfgHyQdU.js"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/o6ebcg87asby3lpan5y8lkui/original.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/bwhouia098qm6c673a7ri7af/original.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/pv19v653z4snumseif7ctt4m/original.svg"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "http://127.0.0.1:8765/_hosts/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "http://127.0.0.1:8765/_hosts/fonts.gstatic.com/s/redhatdisplay/v21/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbrKRckg.ttf"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/nodes/36.BrnDoax1.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BHSiu_Jo.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/CAiGPopX.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/CMc7Pyhj.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/D27WwNHE.js"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/b8mfhui5rakdfjvwdwub6rb7/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/tw90mgdwkcvh9yep96v6w7dd/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/wvvyzeh5bt5qted3btjrw5tb/original.svg"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "http://127.0.0.1:8765/_hosts/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/bucndjxdb4j5siir24hs67m7/original.svg"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/gqdjnck8azcrlxsfxjvfjbby/original.png"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/dzya554hfui48tn1ubc81m55/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/funnels/bxbk98nwe0iugqy0ac7prluh/image_1774022406563.webp"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/B_T9TS2C.js"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/tnw071bj76s6kfztl5kez7tc/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/gflnyfp2o0hixjm7nlx1yxvj/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/k6frhrxhknj299fmobdy66g7/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/s8f50indn40hgxes09hbjxrq/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/ns7kdcnt73j8ih22uzaoqise/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/f7wmkexxmybr50j7wrqyz0gc/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/lhejmoxbcxycvn713l3vsur5/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/aeao4gbg1mrm1gc8zjhpuv4l/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/cytk2zv39maiwcrlmusz9doz/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/a7oqqdp5657cbtt2ti3t0do0/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/ftv9pub5bpyibje0mbpfp1oj/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/v7zbxw5q5r5tnojh3kcenl1h/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/dghd30zs11t307nxu4p1vmgp/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/vsczz44lnl3uk7is2a3x0i0t/original.svg"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/funnels/bxbk98nwe0iugqy0ac7prluh/image_1774022439089.webp"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/hd2e8bliom7mrprunbcnkwki/original.svg"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/isxywu4ryafx4h5ayossqb8z/original.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/u2zbth8cm4m6b3h81n7www20/original.svg"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/v4g9gd6pgpnb88bpmz4ew66m/original.svg"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/a11e9x9jkgavz95ok6wgsm8h/original.svg"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/vbc0p9fqwm8hs33pqijaigfj/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/w9h6jne4j9kp0t7dyrwcz9is/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/szb89l5xm3dgafziv6525x25/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/s59fp2nv1nmcsuvo1p83hqtr/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/w7rucpvx1hwl4equngplepiv/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/htm163zntdy6g37xbm2eji9j/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/funnels/bxbk98nwe0iugqy0ac7prluh/image_1774022461101.webp"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/a71ubor2pwqyqbso43p6q92q/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/tnotjfukvsr1zt0alnpsy2y5/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/f0bkilnea42xrr6j9ne8i502/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/x4nehhdhyamazzdwhfl7wxyz/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/lo1foj33o24eyiqftwbwqzgf/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/wpzauzz0hwc4wwd7331wsx4v/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/uswh8mn04rgr8bivqf3ywp7w/original.png"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/hu00xrn02ik2h3ctpr92xhky/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/xzml9m0uuwfgg5ahdcthqt04/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/dzd0jvytsvkl1fn4yvoa3qwd/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/a9terb124ulotppd60k6ztqf/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/funnels/bxbk98nwe0iugqy0ac7prluh/image_1774022485512.webp"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/h7mvcp6r8qjmkuc4kkwaho70/original.png"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/x3edoc37c5b274e8j8kqn7yv/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/bb8r20arup6oh9fq5c785j6u/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/ndey8rntzzme16ojowo6jcyk/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/juaynkpb502dcjppa3pcfitw/original.png"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/ywjygpj4xqk24wv63700vbcz/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/fhqvrcmvssfjl2t49fcbduax/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/wies3nfmvee9n879yav5d2zg/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/zn6aiug03lpmu6t92edwnhyv/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/ipczzhparo77vx19w6i169kj/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/usgx924capqb5xj9o170l1pv/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/nxwjgwhzi8x63l66w3nmzp0x/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/zk2ttt0r0vb8ammwnwxlo5i7/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/cmuvy7mya7l3dcft8qapxogq/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/iw8u8ykz1yeyd64dsognca9p/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/kbwnnw5fc06ismp9x6oykgd3/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/efgelb0vl156mgqihctzol6q/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/rk3phswn5ozyrm7rxn5dt2ae/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/gdsi3e7h0acyvrngbmxp98qo/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/wwf6qyd2a6ioq8yl7f1kx2nl/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/n5vquw3ctwur7tjgpi45knnm/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/ygmauocxku8o4esizelov0ri/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/pzr2wvwk8xyamr9vxnm7w50n/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/sbf9kruqovrxc0d4lla4zyuk/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/tsxmnapm4p5hgdfbmrcdqh7y/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/wvh9781qnw8k225omxcwna94/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/scltiph53vf72ldnkcey4qc9/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/qqi4sos5t8xdhz89a0ie71i7/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/bs6f79u64pt7b7jdirv3w12a/original.png"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/d8jkle5ywm9rnjn1mppqljkc/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/x1l0igzt3ma5k19f4qlfi1q2/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/u22rx83dtpfpjgo45bpo7yjj/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/bypjypnw91dd7sgxcskfb7l8/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/qTPaMU-1.js"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BeJsrW7X.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BQCL9zem.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/XyeL0weZ.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/KqQSUaN2.js"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "http://127.0.0.1:8765/_app/immutable/assets/InputNumber.D7OY0gKX.css"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "http://127.0.0.1:8765/_hosts/fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BpTimncu.js"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/gi9ag0o2sso8m9puak5raaoq/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/cg2w308bia0qgs1kuwh4l4kc/original.png"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/v1utg2mbs0rsrow0zfbqwr3t/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/bds3oasgipay90sfsqx22xci/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/g60885d1wrj77tkxap4lzb1w/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/d9nn3msjyhxhleawyzcq8mg2/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/lmobxe2cg9e03kdlk5zzlxqw/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/analyze/icon-cardio.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/analyze/icon-fitness-level.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/analyze/icon-health-risks.svg"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/8ADsE4z7.js"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/rSX_Wt0I.js"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/CYdOFLl0.js"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/hg6yhlzxi3d3h835vq3stuic/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/duh3mk0z07c7l2brtn5qweqs/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/bddtnqps3ncav9svjoot8ywi/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/etvDch0O.js"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "http://127.0.0.1:8765/_app/immutable/assets/AnalyzeLoadingStep.C3wFGOI5.css"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/Dliq6u7i.js"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/analyze/trustpilot.svg"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/analyze/icon-check-green.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/COitBibx.js"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "http://127.0.0.1:8765/_app/immutable/assets/InfoScratchCard.D2TNTgfN.css"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/CRQF9aqC.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BaXaTn2i.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/DLgvkKSC.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/B-DjErhA.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/ByMz1AkN.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/FV7AWAgx.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/Ca_3hwkl.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/DhDJ7lTT.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BCS1IxpQ.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BRy_yZrx.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/BpLJHn1N.js"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "http://127.0.0.1:8765/_app/immutable/assets/SummaryPlanProductCard.BhfqiN6w.css"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/cNePPo36.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/D8hwu4N_.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/9Gz38HP4.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/MyTe7rXT.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "http://127.0.0.1:8765/_app/immutable/chunks/CtMFOqy3.js"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "http://127.0.0.1:8765/_hosts/fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf"
+    },
+    {
+      "method": "POST",
+      "type": "ping",
+      "url": "http://127.0.0.1:8765/api/analytics/events/batch"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "http://127.0.0.1:8765/_hosts/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "http://127.0.0.1:8765/api/analytics/traffic-assessment"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/ccx9hq6b6n4xgef2ayj38vs7/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/media/jzi4x7vbu0u5xcaj9t55ssub/original.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/summary/icon-goal.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/summary/icon-fitness.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/summary/icon-weight.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/summary/icon-bmi.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/summary/icon-discount.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/summary/icon-scissors.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/summary/icon-check-verified.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/summary/payment-methods.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/summary/guarantee-badge.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/summary/leaf_left.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/summary/leaf_right.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/funnels/bxbk98nwe0iugqy0ac7prluh/testimonials_0_image_1776165715660.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/summary/stars-5.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/summary/icon-verified-blue.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/funnels/bxbk98nwe0iugqy0ac7prluh/testimonials_1_image_1776165720588.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_hosts/cdn.soonbody.com/funnels/bxbk98nwe0iugqy0ac7prluh/testimonials_2_image_1776165726807.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/icons/summary/featured-logos.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "http://127.0.0.1:8765/_app/immutable/assets/secure.B-PwzBNO.avif"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "http://127.0.0.1:8765/favicon.svg"
+    }
+  ],
+  "failed_requests": [
+    {
+      "type": "script",
+      "url": "https://us-assets.i.posthog.com/array/phc_ExyXdpe5z9fJK0BH1GpLS2Y7UaeRFMpPcvkxXODmBqz/config.js",
+      "failure": "csp"
+    }
+  ],
+  "console_errors": [
+    "Loading the script 'https://us-assets.i.posthog.com/array/phc_ExyXdpe5z9fJK0BH1GpLS2Y7UaeRFMpPcvkxXODmBqz/config.js' violates the following Content Security Policy directive: \"script-src 'self' 'unsafe-inline' blob:\". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The action has been blocked.",
+    "Connecting to 'https://us-assets.i.posthog.com/array/phc_ExyXdpe5z9fJK0BH1GpLS2Y7UaeRFMpPcvkxXODmBqz/config?ver=1.407.1' violates the following Content Security Policy directive: \"connect-src 'self'\". The action has been blocked.",
+    "Fetch API cannot load https://us-assets.i.posthog.com/array/phc_ExyXdpe5z9fJK0BH1GpLS2Y7UaeRFMpPcvkxXODmBqz/config?ver=1.407.1. Refused to connect because it violates the document's Content Security Policy.",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Connecting to 'https://us.i.posthog.com/flags/?v=2&ver=1.407.1&compression=base64' violates the following Content Security Policy directive: \"connect-src 'self'\". The action has been blocked.",
+    "Fetch API cannot load https://us.i.posthog.com/flags/?v=2&ver=1.407.1&compression=base64. Refused to connect because it violates the document's Content Security Policy.",
+    "Connecting to 'https://analytics.google.com/g/collect?a=adblocker_check' violates the following Content Security Policy directive: \"connect-src 'self'\". The action has been blocked.",
+    "Fetch API cannot load https://analytics.google.com/g/collect?a=adblocker_check. Refused to connect because it violates the document's Content Security Policy.",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))",
+    "Failed to load resource: the server responded with a status of 501 (Unsupported method ('POST'))"
+  ]
+}

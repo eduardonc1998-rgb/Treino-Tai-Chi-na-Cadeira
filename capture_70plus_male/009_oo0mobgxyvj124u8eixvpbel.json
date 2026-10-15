@@ -1,0 +1,17 @@
+{
+  "branch": "70plus_male",
+  "step": 9,
+  "step_id": "oo0mobgxyvj124u8eixvpbel",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/oo0mobgxyvj124u8eixvpbel",
+  "type": "question",
+  "template": "selection-image",
+  "name": "Image Cards",
+  "question": "Como você descreveria seu biotipo?",
+  "options_found": [
+    " Normal ",
+    " Flácido ",
+    " Acima do peso ",
+    " Obeso "
+  ],
+  "main_text": "Como você descreveria seu biotipo?\nNormal\nFlácido\nAcima do peso\nObeso"
+}

@@ -1,0 +1,7 @@
+Que tipo de dieta você prefere?
+Tradicional
+Keto
+Paleo
+Mediterrânea
+Sem lactose
+Sem glúten

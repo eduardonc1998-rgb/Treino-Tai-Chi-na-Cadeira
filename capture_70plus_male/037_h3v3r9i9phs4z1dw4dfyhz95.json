@@ -1,0 +1,15 @@
+{
+  "branch": "70plus_male",
+  "step": 37,
+  "step_id": "h3v3r9i9phs4z1dw4dfyhz95",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/h3v3r9i9phs4z1dw4dfyhz95",
+  "type": "question",
+  "template": "input-number",
+  "name": "Number Input",
+  "question": "Qual é o seu peso ideal?",
+  "options_found": [
+    "KG",
+    "LBS"
+  ],
+  "main_text": "Qual é o seu peso ideal?\nKG\nLBS\nKG\n\nSua faixa de peso saudável: 50 kg - 68 kg\n\n👆 Pedimos o seu objetivo para definir a sua meta\n\nSaber o seu peso ideal permite-nos calcular o seu IMC alvo e garantir que as suas metas de perda de peso são saudáveis e realistas para o seu corpo."
+}

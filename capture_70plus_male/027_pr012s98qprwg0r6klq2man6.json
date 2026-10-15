@@ -1,0 +1,17 @@
+{
+  "branch": "70plus_male",
+  "step": 27,
+  "step_id": "pr012s98qprwg0r6klq2man6",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/pr012s98qprwg0r6klq2man6",
+  "type": "question",
+  "template": "grid-default",
+  "name": "Grid Landing",
+  "title": "A que horas você costuma tomar café da manhã?",
+  "options_found": [
+    "Entre 6h e 8h ",
+    "Entre 8h e 10h ",
+    "Entre 10h e meio-dia ",
+    "Costumo pular o café da manhã "
+  ],
+  "main_text": "A que horas você costuma tomar café da manhã?\nEntre 6h e 8h\nEntre 8h e 10h\nEntre 10h e meio-dia\nCostumo pular o café da manhã"
+}

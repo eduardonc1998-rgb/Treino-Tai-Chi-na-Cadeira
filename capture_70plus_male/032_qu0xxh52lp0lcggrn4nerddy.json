@@ -1,0 +1,18 @@
+{
+  "branch": "70plus_male",
+  "step": 32,
+  "step_id": "qu0xxh52lp0lcggrn4nerddy",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/qu0xxh52lp0lcggrn4nerddy",
+  "type": "question",
+  "template": "multi-selection-default",
+  "name": "Multi Select",
+  "question": "Quais alimentos você mais deseja comer?",
+  "options_found": [
+    "  Doces ",
+    "  Salgadinhos ",
+    "  Fast food ",
+    "  Refrigerante ",
+    "  Nenhuma das opções acima "
+  ],
+  "main_text": "Quais alimentos você mais deseja comer?\nDoces\nSalgadinhos\nFast food\nRefrigerante\nNenhuma das opções acima"
+}

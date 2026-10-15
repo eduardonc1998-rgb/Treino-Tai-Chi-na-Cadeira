@@ -1,0 +1,17 @@
+{
+  "branch": "70plus_male",
+  "step": 17,
+  "step_id": "xdow1jvlcg1f807nvw8szaow",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/xdow1jvlcg1f807nvw8szaow",
+  "type": "question",
+  "template": "selection-default",
+  "name": "Text Options",
+  "question": "Você fica sem fôlego ao subir escadas?",
+  "options_found": [
+    " Fico tão sem fôlego que não consigo falar ",
+    " Fico um pouco sem fôlego ",
+    " Fico bem após um lance de escadas ",
+    " Consigo subir vários lances de escadas sem dificuldade "
+  ],
+  "main_text": "Você fica sem fôlego ao subir escadas?\nFico tão sem fôlego que não consigo falar\nFico um pouco sem fôlego\nFico bem após um lance de escadas\nConsigo subir vários lances de escadas sem dificuldade"
+}

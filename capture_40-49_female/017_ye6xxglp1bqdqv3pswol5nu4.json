@@ -1,0 +1,17 @@
+{
+  "branch": "40-49_female",
+  "step": 17,
+  "step_id": "ye6xxglp1bqdqv3pswol5nu4",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/ye6xxglp1bqdqv3pswol5nu4",
+  "type": "question",
+  "template": "selection-default",
+  "name": "Question Step",
+  "question": "Você fica sem fôlego ao subir escadas?",
+  "options_found": [
+    " Fico tão sem fôlego que não consigo falar ",
+    " Fico um pouco sem fôlego ",
+    " Consigo subir um lance de escadas bem ",
+    " Consigo subir vários lances de escadas com facilidade "
+  ],
+  "main_text": "Você fica sem fôlego ao subir escadas?\nFico tão sem fôlego que não consigo falar\nFico um pouco sem fôlego\nConsigo subir um lance de escadas bem\nConsigo subir vários lances de escadas com facilidade"
+}

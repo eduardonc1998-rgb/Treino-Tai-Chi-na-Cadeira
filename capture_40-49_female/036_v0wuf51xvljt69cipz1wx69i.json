@@ -1,0 +1,15 @@
+{
+  "branch": "40-49_female",
+  "step": 36,
+  "step_id": "v0wuf51xvljt69cipz1wx69i",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/v0wuf51xvljt69cipz1wx69i",
+  "type": "question",
+  "template": "input-number",
+  "name": "Number Input",
+  "question": "Qual é o seu peso atual?",
+  "options_found": [
+    "KG",
+    "LBS"
+  ],
+  "main_text": "Qual é o seu peso atual?\nKG\nLBS\nKG\n\n👆 Pedimos seu peso para calcular o IMC\n\nO Índice de Massa Corporal (IMC) é uma medida do percentual de gordura corporal amplamente utilizada para estimar o risco de possíveis problemas de saúde."
+}

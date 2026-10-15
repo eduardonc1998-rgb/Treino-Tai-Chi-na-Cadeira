@@ -1,0 +1,18 @@
+{
+  "branch": "70plus_male",
+  "step": 13,
+  "step_id": "p8i6rz5kyztw7q4dbxdvxucz",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/p8i6rz5kyztw7q4dbxdvxucz",
+  "type": "question",
+  "template": "selection-default",
+  "name": "Text Options",
+  "question": "Quando você estava na melhor forma?",
+  "options_found": [
+    " Agora mesmo! ",
+    " Há menos de um ano ",
+    " Há 1-3 anos ",
+    " Há mais de 3 anos ",
+    " Nunca "
+  ],
+  "main_text": "Quando você estava na melhor forma?\nAgora mesmo!\nHá menos de um ano\nHá 1-3 anos\nHá mais de 3 anos\nNunca"
+}

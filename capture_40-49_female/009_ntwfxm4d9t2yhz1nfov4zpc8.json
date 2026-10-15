@@ -1,0 +1,17 @@
+{
+  "branch": "40-49_female",
+  "step": 9,
+  "step_id": "ntwfxm4d9t2yhz1nfov4zpc8",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/ntwfxm4d9t2yhz1nfov4zpc8",
+  "type": "question",
+  "template": "selection-image",
+  "name": "Image Cards",
+  "question": "Como você descreveria seu biotipo?",
+  "options_found": [
+    " Magro(a) ",
+    " Médio(a) ",
+    " Corpulento(a) ",
+    " Tamanho grande "
+  ],
+  "main_text": "Como você descreveria seu biotipo?\nMagro(a)\nMédio(a)\nCorpulento(a)\nTamanho grande"
+}

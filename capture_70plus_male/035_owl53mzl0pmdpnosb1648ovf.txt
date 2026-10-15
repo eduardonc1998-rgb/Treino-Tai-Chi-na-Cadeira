@@ -1,0 +1,9 @@
+Qual é a sua altura?
+CM
+FT
+FT
+IN
+
+👆 Pedimos sua altura para calcular o IMC
+
+O Índice de Massa Corporal (IMC) é uma medida do percentual de gordura corporal usada para estimar o risco de possíveis problemas de saúde.

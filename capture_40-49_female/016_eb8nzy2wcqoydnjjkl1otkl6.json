@@ -1,0 +1,17 @@
+{
+  "branch": "40-49_female",
+  "step": 16,
+  "step_id": "eb8nzy2wcqoydnjjkl1otkl6",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/eb8nzy2wcqoydnjjkl1otkl6",
+  "type": "question",
+  "template": "selection-default",
+  "name": "Text Options",
+  "question": "Com que frequência você se exercita?",
+  "options_found": [
+    " Quase todo dia ",
+    " Várias vezes por semana ",
+    " Várias vezes por mês ",
+    " Nunca "
+  ],
+  "main_text": "Com que frequência você se exercita?\nQuase todo dia\nVárias vezes por semana\nVárias vezes por mês\nNunca"
+}

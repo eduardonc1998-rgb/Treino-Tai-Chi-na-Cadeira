@@ -1,0 +1,17 @@
+{
+  "branch": "70plus_male",
+  "step": 29,
+  "step_id": "oexb2697us9tq16hlw3vayjv",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/oexb2697us9tq16hlw3vayjv",
+  "type": "question",
+  "template": "grid-default",
+  "name": "Grid Landing",
+  "title": "A que horas você janta?",
+  "options_found": [
+    "Entre 18h e 20h ",
+    "Entre 20h e 22h ",
+    "Entre 22h e meia-noite ",
+    "Costumo pular o jantar "
+  ],
+  "main_text": "A que horas você janta?\nEntre 18h e 20h\nEntre 20h e 22h\nEntre 22h e meia-noite\nCostumo pular o jantar"
+}

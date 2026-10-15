@@ -1,0 +1,14 @@
+{
+  "branch": "70plus_male",
+  "step": 41,
+  "step_id": "o2ioi1howqntkcw2kmaon9h7",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/o2ioi1howqntkcw2kmaon9h7",
+  "type": "question",
+  "template": "input-date",
+  "name": "Question Step",
+  "question": "Quando será o evento?",
+  "options_found": [
+    "15 de dez. de 2026 "
+  ],
+  "main_text": "Quando será o evento?\n15 de dez. de 2026"
+}

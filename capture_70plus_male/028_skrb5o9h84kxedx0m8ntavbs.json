@@ -1,0 +1,17 @@
+{
+  "branch": "70plus_male",
+  "step": 28,
+  "step_id": "skrb5o9h84kxedx0m8ntavbs",
+  "url": "http://127.0.0.1:8765/flow-tai-chi-yoga-2/skrb5o9h84kxedx0m8ntavbs",
+  "type": "question",
+  "template": "grid-default",
+  "name": "Grid Landing",
+  "title": "E o almoço?",
+  "options_found": [
+    "Entre 10h e meio-dia ",
+    "Entre meio-dia e 14h ",
+    "Entre 14h e 16h ",
+    "Costumo pular o almoço "
+  ],
+  "main_text": "E o almoço?\nEntre 10h e meio-dia\nEntre meio-dia e 14h\nEntre 14h e 16h\nCostumo pular o almoço"
+}

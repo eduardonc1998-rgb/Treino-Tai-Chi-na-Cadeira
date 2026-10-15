@@ -1,0 +1,1 @@
+function o(e){let t=!1;return{onpointerdown(n){n.pointerType==="touch"&&(t=!0,e())},onclick(){if(t){t=!1;return}e()}}}function r(e){const t=e.currentTarget;t&&requestAnimationFrame(()=>{t.scrollIntoView({block:"center",behavior:"smooth"})})}export{r as s,o as t};
